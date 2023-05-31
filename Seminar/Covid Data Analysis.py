@@ -266,10 +266,10 @@ while repeat != 'no':
             ch1 = int(input("enter the choice "))
             if (ch1 == 1):
                 pie_chart_india()
-                break;
+                break
             elif (ch1 == 2):
                 pie_chart_state()
-                break;
+                break
             elif (ch1 == 3):
                 pie_chart_district()
                 break;
